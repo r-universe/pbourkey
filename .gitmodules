@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "polymapR"]
 	path = polymapR
 	url = https://github.com/cran/polymapR
-	shallow = true
-	registered = true
 [submodule "polyqtlR"]
 	path = polyqtlR
 	url = https://github.com/cran/polyqtlR
-	shallow = true
-	registered = true
